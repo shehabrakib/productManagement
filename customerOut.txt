@@ -1,0 +1,2 @@
+CustomerID : 78
+Price : 12 $
