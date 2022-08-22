@@ -1,3 +1,6 @@
+ProductID : 221133
+Product Category : snackes
+Product Name : lays
 BuyerID : 213078
 Buyer Name : shehab rakib
-Price : 10 $
+Buying Price : 10 $

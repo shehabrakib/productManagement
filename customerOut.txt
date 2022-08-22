@@ -1,2 +1,5 @@
+ProductID : 221133
+Product Category : snackes
+Product Name : lays
 CustomerID : 78
-Price : 12 $
+Selling Price : 12 $
